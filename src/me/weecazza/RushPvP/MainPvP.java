@@ -12,6 +12,7 @@ public class MainPvP extends JavaPlugin {
 	
 	public void onDisable() {
 		Bukkit.getServer().getLogger().info("Disabled");
+	
 		
 	}
 
